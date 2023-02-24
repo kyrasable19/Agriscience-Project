@@ -1,0 +1,175 @@
+type,title,content,condition1,fixation,stim1,topLeft,topRight,keyboard,key,ITI,stimFormat,feedback,feedbackTime,random,button1,select
+instructions,"Implicit Association Test: Women in Agriculture",,,,,,,,,800,,,,,START,
+instructions,"Part 1: Sex","You will be presented with a series of nouns that are typically associated with <b>Females</b> or <b>Males</b>. Your task is to press 'e' when the word relates most to the occupation in the top left, or 'i' when the word relates most to the occupation in the top right. Try to be as fast and accurate as possible.<br> Click on NEXT when ready to start.",,,,,,,,800,,,,,NEXT,
+test,,,,1,Mother,Female,Male,"e i",e,800,word,"correct: Well done!;incorrect:Not quite!",1000,1,,1
+test,,,,1,Wife,Female,Male,"e i",e,800,word,"correct: Well done!;incorrect:Not quite!",1000,1,,1
+test,,,,1,Aunt,Female,Male,"e i",e,800,word,"correct: Well done!;incorrect:Not quite!",1000,1,,1
+test,,,,1,Woman,Female,Male,"e i",e,800,word,"correct: Well done!;incorrect:WRONG!",1000,1,,1
+test,,,,1,Girl,Female,Male,"e i",e,800,word,"correct: Well done!;incorrect:WRONG!",1000,1,,1
+test,,,,1,Grandma,Female,Male,"e i",e,800,word,"correct: Well done!;incorrect:WRONG!",1000,1,,1
+test,,,,1,Daughter,Female,Male,"e i",e,800,word,"correct: Well done!;incorrect:WRONG!",1000,1,,1
+test,,,,1,Female,Female,Male,"e i",e,800,word,"correct: Well done!;incorrect:WRONG!",1000,1,,1
+test,,,,1,Julia,Female,Male,"e i",e,800,word,"correct: Well done!;incorrect:Not quite!",1000,1,,1
+test,,,,1,Michelle,Female,Male,"e i",e,800,word,"correct: Well done!;incorrect:Not quite!",1000,1,,1
+test,,,,1,Anna,Female,Male,"e i",e,800,word,"correct: Well done!;incorrect:Not quite!",1000,1,,1
+test,,,,1,Nicole,Female,Male,"e i",e,800,word,"correct: Well done!;incorrect:Not quite!",1000,1,,1
+test,,,,1,Man,Female,Male,"e i",i,800,word,"correct: Well done!;incorrect:Not quite!",1000,1,,1
+test,,,,1,Son,Female,Male,"e i",i,800,word,"correct: Well done!; incorrect:Not quite!",1000,1,,1
+test,,,,1,Father,Female,Male,"e i",i,800,word,"correct: Well done!; incorrect:Not quite!",1000,1,,1
+test,,,,1,Boy,Female,Male,"e i",i,800,word,"correct: Well done!; incorrect:Not quite!",1000,1,,1
+test,,,,1,Uncle,Female,Male,"e i",i,800,word,"correct: Well done!; incorrect:Not quite!",1000,1,,1
+test,,,,1,Grandpa,Female,Male,"e i",i,800,word,"correct: Well done!; incorrect:Not quite!",1000,1,,1
+test,,,,1,Husband,Female,Male,"e i",i,800,word,"correct: Well done!; incorrect:Not quite!",1000,1,,1
+test,,,,1,Male,Female,Male,"e i",i,800,word,"correct: Well done!; incorrect:Not quite!",1000,1,,1
+test,,,,1,John,Female,Male,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,,1,Rick,Female,Male,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,,1,Michael,Female,Male,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,,1,Dave,Female,Male,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+instructions,"Part 2: Field of Work","You will now be presented with a series of nouns that are typically associated with <b>Agriculture<b> or <b>Literature<b>. Your task is to press 'e' when the word relates most to the field of work in the top left, or 'i' when the word relates most to the field of work in the top right. Try to be as fast and accurate as possible.<br> Click on NEXT when ready to start.",,,,,,,,,,,,,,1
+test,,,,1,FFA,Agriculture,Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,,1,Soil,Agriculture,Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,,1,Crops,Agriculture,Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,,1,Livestock,Agriculture,Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,,1,Cattle,Agriculture,Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,,1,Corn,Agriculture,Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,,1,Forestry,Agriculture,Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,,1,Fishing,Agriculture,Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,,1,Engineering,Agriculture,Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,,1,Industrial,Agriculture,Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,,1,Tractor,Agriculture,Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,,1,Hunting,Agriculture,Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,,1,Book,Agriculture,Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,,1,Author,Agriculture,Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,,1,English,Agriculture,Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,,1,Genre,Agriculture,Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,,1,Fiction,Agriculture,Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,,1,Read,Agriculture,Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,,1,Theme,Agriculture,Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,,1,Library,Agriculture,Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,,1,Metaphor,Agriculture,Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,,1,Story,Agriculture,Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,,1,Poetry,Agriculture,Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,,1,Character,Agriculture,Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+instructions,"Part 3: Mixed","You will now be presented with the same nouns, interspersed. Your task is to press <b>e</b> when the word relates to <b>Female or Agriculture</b>, or <b>i</b> when the word relates to <b>Male or Domestic</b>.  Try to be as fast and accurate as possible. There will be no feedback when you are wrong on these trials.<br><br> Click on NEXT when ready to start.",,,,,,,,,,,,,NEXT,
+test,,,congruent,1,Mother,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Wife,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Aunt,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Woman,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Girl,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Grandma,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Daughter,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Female,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Julia,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Michelle,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Anna,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Nicole,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Man,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Son,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Father,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Boy,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Uncle,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Grandpa,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Husband,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Male,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,John,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Rick,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Michael,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Dave,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,FFA,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Soil,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Crops,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Livestock,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Cattle,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Corn,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Forestry,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Fishing,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Engineering,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Industrial,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Tractor,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Farming,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Cleaning,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Laundry,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Cooking,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Ironing,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Dishes,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Children,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Homemaker,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Caretaker,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,Groceries,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,TBD,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,TBD,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+test,,,congruent,1,TBD,Female<br>OR<br>Agriculture,Male<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,1,,1
+instructions,"Part 4: Sex switch sides","You will now be presented with the same nouns which are typically associated with being <b>Male</b> or <b>Female</b>. Your task is to press </b>e</b> when the name relates to the sex in the top left, or </b>i</b> when the word relates to the sex in the top right.<p><span style=""color:#ED244F;""> Note that this time Male is in the top left and Female in the top right. </span></p>Try to be as fast and accurate as possible.<br> Click on NEXT when ready to start.",,,,,,,,800,,,,,NEXT,
+test,,,,1,Man,Male,Female,"e i",e,800,word,"correct: Well done!;incorrect:WRONG!",1000,1,,1
+test,,,,1,Son,Male,Female,"e i",e,800,word,"correct: Well done!;incorrect:WRONG!",1000,1,,1
+test,,,,1,Father,Male,Female,"e i",e,800,word,"correct: Well done!;incorrect:WRONG!",1000,1,,1
+test,,,,1,Boy,Male,Female,"e i",e,800,word,"correct: Well done!;incorrect:WRONG!",1000,1,,1
+test,,,,1,Uncle,Male,Female,"e i",e,800,word,"correct: Well done!;incorrect:WRONG!",1000,1,,1
+test,,,,1,Grandpa,Male,Female,"e i",e,800,word,"correct: Well done!;incorrect:WRONG!",1000,1,,1
+test,,,,1,Husband,Male,Female,"e i",e,800,word,"correct: Well done!;incorrect:WRONG!",1000,1,,1
+test,,,,1,Male,Male,Female,"e i",e,800,word,"correct: Well done!;incorrect:WRONG!",1000,1,,1
+test,,,,1,John,Male,Female,"e i",e,800,word,"correct: Well done!;incorrect:WRONG!",1000,1,,1
+test,,,,1,Rick,Male,Female,"e i",e,800,word,"correct: Well done!;incorrect:WRONG!",1000,1,,1
+test,,,,1,Michael,Male,Female,"e i",e,800,word,"correct: Well done!;incorrect:WRONG!",1000,1,,1
+test,,,,1,Dave,Male,Female,"e i",e,800,word,"correct: Well done!;incorrect:WRONG!",1000,1,,1
+test,,,,1,Mother,Male,Female,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,,,1
+test,,,,1,Wife,Male,Female,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,,,1
+test,,,,1,Aunt,Male,Female,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,,,1
+test,,,,1,Woman,Male,Female,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,,,1
+test,,,,1,Girl,Male,Female,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,,,1
+test,,,,1,Grandma,Male,Female,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,,,1
+test,,,,1,Daughter,Male,Female,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,,,1
+test,,,,1,Female,Male,Female,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,,,1
+test,,,,1,Julia,Male,Female,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,,,1
+test,,,,1,Michelle,Male,Female,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,,,1
+test,,,,1,Anna,Male,Female,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,,,1
+test,,,,1,Nicole,Male,Female,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",1000,,,1
+instructions,"Part 5: Mixed","You will now be presented with the same nouns, interspersed. Your task is to press 1 when the word relates to the sex or occupation in the top left, or 0 when the word relates to the sex or occupation in the top right. Try to be as fast and accurate as possible. There will be no feedback when you are wrong on these trials. <p>Click on NEXT when ready to start.",,,,,,,,800,,,,,NEXT,
+test,,,incongruent,1,Man,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Son,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Father,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Boy,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Uncle,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Grandpa,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Husband,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Male,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,John,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Rick,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Micheal,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Dave,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Mother,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Wife,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Aunt,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Woman,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Girl,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Grandma,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Daughter,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Female,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Julia,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Michelle,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Anna,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Nicole,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,FFA,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Soil,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Crops,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Livestock,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Cattle,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Corn,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Forestry,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Fishing,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Engineering,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Industrial,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Tractor,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Hunting,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",e,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Cleaning,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Laundry,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Cooking,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Ironing,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Dishes,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Children,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Homemaker,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Caretaker,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,Groceries,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,TBD,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,TBD,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
+test,,,incongruent,1,TBD,Male<br>OR<br>Agriculture,Female<br>OR<br>Domestic,"e i",i,800,word,"correct: Well done!; incorrect: Not quite!",,1,,1
